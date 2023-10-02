@@ -1,0 +1,1 @@
+print('eto test detka')
